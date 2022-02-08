@@ -3,7 +3,6 @@ import time
 #by MikeTheHash
 #ATTENTION: The script work like an autoclicker
 
-
 print(" ___ _ __   __ _ _ __ ___  _ __ ___   ___ _ __ ")
 print("/ __| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \ '__|")
 print("\__ \ |_) | (_| | | | | | | | | | | |  __/ |   ")

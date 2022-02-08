@@ -18,3 +18,5 @@ if user_input == "Y" or user_input == "y":
 	while True:
 		pg.write(input_user)
 		pg.press("Enter")
+else:
+	exit()

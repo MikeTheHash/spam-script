@@ -15,10 +15,9 @@ class spam:
 			pg.write("spam")
 			pg.press("enter")
 	def stop_spam(self):
+		time.sleep(1.5)
 		sys.exit()
 	def exit_spam(self):
-		print("Spegnendo il programma...")
-		time.sleep(1.5)
 		sys.exit()
 
 class LayoutClass(BoxLayout):
